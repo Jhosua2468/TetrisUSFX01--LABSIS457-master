@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Desktop\Materias Universidad\SIS457\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\Definitions.TetrisUSFX01.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\USUARIO\Desktop\Materias Universidad\SIS457\TetrisUSFX01-master\Source\TetrisUSFX01/Piece.h
+C:\Users\USUARIO\Desktop\Materias Universidad\SIS457\TetrisUSFX01-master\Source\TetrisUSFX01\Block.h
+C:\Users\USUARIO\Desktop\Materias Universidad\SIS457\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\Block.generated.h
+C:\Users\USUARIO\Desktop\Materias Universidad\SIS457\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\Piece.generated.h
